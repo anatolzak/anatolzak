@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Anatol, a **full-stack engineer** with a deep passion for creating exceptional software and incredible user experiences through my relentless attention to detail and keen eye for design.
 
-![Visitors Badge](https://stats-api.anatolz.com/github-visitors-badge)
+![Visitors Badge](https://ct4e8nj1hj.execute-api.us-east-1.amazonaws.com/github-visitors-badge)
 
 <!--
 **anatolzak/anatolzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
